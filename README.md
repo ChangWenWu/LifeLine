@@ -1,12 +1,6 @@
 # LifeLine
 
+**LifeLine**旨在帮助用户养成良好的生活习惯。应用启动时设置预期寿命后，可设定一系列正面或者负面的习惯，正面的习惯增加寿命，负面的习惯会减少寿命。
 
-![](https://github.com/GodWen/LifeLine/raw/master//LifeLine/a.jpg) 
-
-![](https://github.com/GodWen/LifeLine/raw/master//LifeLine/b.jpg) 
-
-![](https://github.com/GodWen/LifeLine/raw/master//LifeLine/c.jpg) 
-
-![](https://github.com/GodWen/LifeLine/raw/master//LifeLine/d.jpg) 
-
-![](https://github.com/GodWen/LifeLine/raw/master//LifeLine/e.jpg) 
+##ScreenCapture：
+![](https://github.com/ChangWenWu/LifeLine/blob/master/LifeLine/ScreenCapture.png?raw=true) 
